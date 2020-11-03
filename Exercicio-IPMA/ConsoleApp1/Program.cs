@@ -15,7 +15,7 @@ namespace ConsoleApp1
 
             Dictionary<int, string> dicLocais = new Dictionary<int, string>();
 
-            // Expressão Regular para instanciar objeto Regex.
+            // Expressão Regular para instanciar objeto Regex
             String erString = @"^[0-9]{7},[123],([1-9]?\d,){2}[A-Z]{3},([^,\n]*)$";
             Regex g = new Regex(erString);
 
