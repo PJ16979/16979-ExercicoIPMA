@@ -1,0 +1,15 @@
+C:\Users\Utilizador\Desktop\3ºAno\Integração de Sistemas de Informação\Trabalhos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Exercício-IPMA.exe
+C:\Users\Utilizador\Desktop\3ºAno\Integração de Sistemas de Informação\Trabalhos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Exercício-IPMA.deps.json
+C:\Users\Utilizador\Desktop\3ºAno\Integração de Sistemas de Informação\Trabalhos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Exercício-IPMA.runtimeconfig.json
+C:\Users\Utilizador\Desktop\3ºAno\Integração de Sistemas de Informação\Trabalhos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Exercício-IPMA.runtimeconfig.dev.json
+C:\Users\Utilizador\Desktop\3ºAno\Integração de Sistemas de Informação\Trabalhos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Exercício-IPMA.dll
+C:\Users\Utilizador\Desktop\3ºAno\Integração de Sistemas de Informação\Trabalhos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Exercício-IPMA.pdb
+C:\Users\Utilizador\Desktop\3ºAno\Integração de Sistemas de Informação\Trabalhos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Utilizador\Desktop\3ºAno\Integração de Sistemas de Informação\Trabalhos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Exercício-IPMA.csprojAssemblyReference.cache
+C:\Users\Utilizador\Desktop\3ºAno\Integração de Sistemas de Informação\Trabalhos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Exercício-IPMA.AssemblyInfoInputs.cache
+C:\Users\Utilizador\Desktop\3ºAno\Integração de Sistemas de Informação\Trabalhos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Exercício-IPMA.AssemblyInfo.cs
+C:\Users\Utilizador\Desktop\3ºAno\Integração de Sistemas de Informação\Trabalhos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Exercício-IPMA.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Desktop\3ºAno\Integração de Sistemas de Informação\Trabalhos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Exercício-IPMA.csproj.CopyComplete
+C:\Users\Utilizador\Desktop\3ºAno\Integração de Sistemas de Informação\Trabalhos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Exercício-IPMA.dll
+C:\Users\Utilizador\Desktop\3ºAno\Integração de Sistemas de Informação\Trabalhos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Exercício-IPMA.pdb
+C:\Users\Utilizador\Desktop\3ºAno\Integração de Sistemas de Informação\Trabalhos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Exercício-IPMA.genruntimeconfig.cache
