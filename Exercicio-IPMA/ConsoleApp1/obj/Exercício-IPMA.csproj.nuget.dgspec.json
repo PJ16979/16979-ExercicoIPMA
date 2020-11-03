@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Utilizador\\Desktop\\3ºAno\\Integração de Sistemas de Informação\\Trabalhos\\Exercicio-IPMA\\ConsoleApp1\\Exercício-IPMA.csproj": {}
+    "C:\\Users\\Utilizador\\Desktop\\3ºAno\\Integração de Sistemas de Informação\\Exercico-IPMA\\Exercicio-IPMA\\ConsoleApp1\\Exercício-IPMA.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Utilizador\\Desktop\\3ºAno\\Integração de Sistemas de Informação\\Trabalhos\\Exercicio-IPMA\\ConsoleApp1\\Exercício-IPMA.csproj": {
+    "C:\\Users\\Utilizador\\Desktop\\3ºAno\\Integração de Sistemas de Informação\\Exercico-IPMA\\Exercicio-IPMA\\ConsoleApp1\\Exercício-IPMA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Utilizador\\Desktop\\3ºAno\\Integração de Sistemas de Informação\\Trabalhos\\Exercicio-IPMA\\ConsoleApp1\\Exercício-IPMA.csproj",
+        "projectUniqueName": "C:\\Users\\Utilizador\\Desktop\\3ºAno\\Integração de Sistemas de Informação\\Exercico-IPMA\\Exercicio-IPMA\\ConsoleApp1\\Exercício-IPMA.csproj",
         "projectName": "Exercício-IPMA",
-        "projectPath": "C:\\Users\\Utilizador\\Desktop\\3ºAno\\Integração de Sistemas de Informação\\Trabalhos\\Exercicio-IPMA\\ConsoleApp1\\Exercício-IPMA.csproj",
+        "projectPath": "C:\\Users\\Utilizador\\Desktop\\3ºAno\\Integração de Sistemas de Informação\\Exercico-IPMA\\Exercicio-IPMA\\ConsoleApp1\\Exercício-IPMA.csproj",
         "packagesPath": "C:\\Users\\Utilizador\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Utilizador\\Desktop\\3ºAno\\Integração de Sistemas de Informação\\Trabalhos\\Exercicio-IPMA\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\Utilizador\\Desktop\\3ºAno\\Integração de Sistemas de Informação\\Exercico-IPMA\\Exercicio-IPMA\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Utilizador\\AppData\\Roaming\\NuGet\\NuGet.Config",

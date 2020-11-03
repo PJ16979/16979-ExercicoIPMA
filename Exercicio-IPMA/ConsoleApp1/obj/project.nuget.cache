@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xOgkqA/Z6kkMn3VQL9UbAKhxzIkSB6HWI+c6OP7m1zpx83UopnUUzWjP5aPYLG49lhHYSLRBtq9RLGqbo0PBxg==",
+  "dgSpecHash": "XI3bsSDKTCEuzFhCz4E3As+kQ+/2uaPe2DVijHlXgIxLHy3UcM9Pn+xhFtcwluguyI0RKfwh8n3QTbhRMwkhuQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Utilizador\\Desktop\\3ºAno\\Integração de Sistemas de Informação\\Trabalhos\\Exercicio-IPMA\\ConsoleApp1\\Exercício-IPMA.csproj",
+  "projectFilePath": "C:\\Users\\Utilizador\\Desktop\\3ºAno\\Integração de Sistemas de Informação\\Exercico-IPMA\\Exercicio-IPMA\\ConsoleApp1\\Exercício-IPMA.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Utilizador\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
   ],
